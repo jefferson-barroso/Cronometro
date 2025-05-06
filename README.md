@@ -28,7 +28,7 @@ Este é um projeto simples desenvolvido em React Native que simula um cronômetr
 
 1. Clone o repositório:
 
-   git clone https://github.com/seu-usuario/cronometro-pomodoro.git
+   git clone https://github.com/jefferson-barroso/Cronometro
 
 
 2. Navegue até a pasta do projeto:
